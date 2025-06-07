@@ -1,0 +1,183 @@
+{
+  "main": {
+    "name": "Aashutosh Chaudhary",
+    "shortDesc": "Network and Security Engineer with hands-on experience in cybersecurity, specializing in Endpoint Security, Threat Mitigation, Vulnerability Management, and Email Security. Skilled in incident response and compliance, with a proactive approach to safeguarding critical assets and ensuring system resilience.",
+    "titles": [
+      "Cyber Security",
+      "Information Security",
+      "Security Engineer"
+    ],
+    "heroImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "techStackImages": [
+      "https://img.icons8.com/color/144/000000/material-ui.png",
+      "https://img.icons8.com/color/144/000000/html-5--v1.png",
+      "https://img.icons8.com/color/144/000000/redux.png",
+      "https://img.icons8.com/color/144/000000/chakra-ui.png"
+    ]
+  },
+  "about": {
+    "aboutImage": "https://img.icons8.com/color/144/000000/chakra-ui.png",
+    "aboutImageCaption": "< Defender 🛡️/>",
+    "title": "Computer Engineer | Network and Security Engineer",
+    "about": "I am a dedicated Network and Security Assistant with expertise in cybersecurity and a passion for safeguarding critical assets. With over a year of experience, I specialize in identifying and mitigating security risks, implementing robust measures, and ensuring data confidentiality, integrity, and availability. My skills include Security Assessments, Vulnerability Scanning, Endpoint Security, Email Security, Incident Response, and compliance with industry standards. I stay updated on the latest trends and technologies to protect organizations from evolving threats.\n\n As a proactive problem-solver, I excel in fast-paced environments, leveraging my analytical skills to identify and prevent emerging threats. I collaborate effectively with cross-functional teams to enforce security policies, optimize system configurations, and conduct comprehensive training. Proficient in a variety of security tools, I am committed to maintaining a secure and resilient infrastructure.",
+    "callUrl": "",
+    "resumeUrl": "https://drive.google.com/file/d/1rDPVgoQDfaM87KaXF1CuO53tKCpsJpqM/view?usp=sharing"
+  },
+  "socials": [
+    {
+      "icon": "FaLinkedin",
+      "link": "https://www.linkedin.com/in/aashutos/"
+    },
+    {
+      "icon": "FaGithub",
+      "link": "https://github.com/aashutosh-chy"
+    },
+    {
+      "icon": "FaInstagram",
+      "link": "https://www.instagram.com/aashutos__"
+    },
+    {
+      "icon": "FaTwitter",
+      "link": "https://twitter.com/aashutos__"
+    }
+  ],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Firebase",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Backend"
+    },
+    {
+      "name": "GitHub",
+      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
+      "category": "Tools"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio Website",
+      "techstack": "HTML5, CSS, JavaScript",
+      "category": "Portfolio",
+      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Next-Gen Portfolio Website",
+      "techstack": "TypeScript, JavaScript, CSS",
+      "category": "Portfolio",
+      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Cryptography and Steganography",
+      "techstack": "Java",
+      "category": "Cryptography",
+      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Password Manager",
+      "techstack": "HTML, Python, CSS, JavaScript, Shell",
+      "category": "Security",
+      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": ""
+      }
+    }
+  ],
+  "educations": [
+    {
+      "institute": "Arniko Awasiya Secondary School",
+      "degree": "Science",
+      "duration": "2015 - 2017"
+    },
+    {
+      "institute": "Rungta College of Engineering and Technology | CSVTU",
+      "degree": "Bachelor of Technology in Computer Science and Engineering",
+      "duration": "2018 - 2022",
+      "desc": [
+        "Relevant Coursework: Data Structures and Algorithms, Database Management Systems, Computer Networks, Operating Systems, Software Engineering, Web Development, Cybersecurity.",
+        "Projects: Developed a web application for online learning management system using MERN stack. Implemented a secure authentication system using JWT and bcrypt."
+      ] 
+    }
+  ],
+  "experiences": [
+    {
+      "company": "SRM Films",
+      "position": "Video Editor | Internship",
+      "duration": "March 2020 - May 2020",
+      "desc": [
+        "Assisted with editing short clips and videos.",
+        "Tools: Wondershare Filmora · Adobe Premiere Pro"
+      ]
+    },
+    {
+      "company": "Virtually Testing Foundation",
+      "position": "Penetration Tester | Internship",
+      "duration": "October 2021 - December 2021",
+      "desc": [
+        "OWASP Top 10 and its fundamentals.",
+        "Web Application penetration testing - Labs.",
+        "Vulnerability Exploitations.",
+        "Professional pentest report writing.",
+        "Networked with the community through social media."
+      ]
+    },
+    {
+      "company": "iCash Pvt. Ltd",
+      "position": "Product Designer | Internship",
+      "duration": "February 2022 - July 2022",
+      "desc": [
+        "Conducted user research to inform design decisions, gaining insights into user needs, pain points, and behaviors.",
+        "Assisted senior designers in creating design concepts and mockups.",
+        "Provided support to end-users.",
+        "Skills: Canva · Adobe XD"
+      ]
+    },
+    {
+      "company": "Raechal Enterprises Pvt. Ltd",
+      "position": "Security Analyst",
+      "duration": "November 2022 - February 2024",
+      "desc": [
+        "Demonstrated expertise in deploying/supporting leading security solutions: Rapid7's InsightVM, ManageEngine's ADSelfService Plus, PAM360.",
+        "Skillful use of ManageEngine's ADManager Plus, Vulnerability Manager Plus, Patch Manager Plus, Rapid7's InsightAppSec, Crowdstrike's EDR/NGAV for robust security.",
+        "Actively advise financial institutions in on-site meetings, enhancing security solutions.",
+        "Contribute to comprehensive security policies, following industry best practices.",
+        "Thoroughly test and evaluate measures for effective asset/data protection.",
+        "Communicate security findings effectively, fostering team collaboration.",
+        "Stay current on security trends/threats, continuously enhance expertise.",
+        "Tools: Insight VM · PAM360 · ADSelfService Plus · ADManager Plus · Crowdstrike EDR/NGAV"
+      ]
+    },
+    {
+      "company": "Max International",
+      "position": "Network and Security Engineer",
+      "duration": "January 2025 - present",
+      "desc": [
+        "Advanced deployment and management of CrowdStrike Falcon EDR and NGAV to proactively detect, investigate, and remediate threats, ensuring endpoint security across enterprise environments.",
+        "Leveraged CrowdStrike Threat Graph and Spotlight for real-time vulnerability assessment and prioritized remediation.",
+        "Knowledge of Email Security Solution Like Checkpoint Harmony Email and Collaboration EPP and EDR solution like SentinelOne Singularity.",
+        "Tools: CrowdStrike Falcon · Harmony Email Collaboration · SentinelOne Singularity · Checkpoint EPP/EDR."
+      ]
+    }
+  ]
+}
