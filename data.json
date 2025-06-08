@@ -63,6 +63,16 @@
       "category": "Tools"
     },
     {
+      "name": "AdSelfService Plus",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372540/adselfservice_wnvv8d.png",
+      "category": "Tools"
+    },
+     {
+      "name": "Harmony Endpoint",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372685/harmonyendpoint_poaqxc.png",
+      "category": "Tools"
+    },
+    {
       "name": "JavaScript",
       "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
       "category": "Frontend"
