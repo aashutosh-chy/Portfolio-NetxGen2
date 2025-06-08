@@ -61,7 +61,17 @@
       "name": "InsightVM",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372096/InsightVM-V2_jjcqxt.jpg",
       "category": "Tools"
-    }
+    },
+    {
+      "name": "CrowdStrike Falcon",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372176/crowdstrike_klhsbj.png",
+      "category": "Tools"
+    },
+    {
+      "name": "PAM360",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372279/pam360_sacusq.png",
+      "category": "Tools"
+    },
   ],
   "projects": [
     {
