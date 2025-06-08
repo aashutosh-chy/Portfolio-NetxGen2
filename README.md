@@ -9,7 +9,7 @@
 
   <p align="center">
     <img src="https://img.shields.io/github/forks/jigar-sable/next-portfolio?style=for-the-badge" />
-  <a href="https://jigarsable.vercel.app">
+  <a href="https://portfolio-netx-gen2.vercel.app">
     <img src="https://img.shields.io/static/v1?label=&message=View%20Demo&style=for-the-badge&color=black&logo=vercel" />
   </a>
 </p>
@@ -61,7 +61,7 @@ Next Portfolio is built using Next.js and Tailwind CSS for a modern design and r
 
 Here are the steps to run the portfolio locally.
 
-1. Fork [this](https://github.com/jigar-sable/next-portfolio) repository.
+1. Fork [this](https://github.com/aashutosh-chy/Portfolio-NetxGen2) repository.
 
 2. Clone your forked copy of the repo
 
@@ -88,12 +88,12 @@ Here are the steps to run the portfolio locally.
 
 > **Note**: `SENDGRID_API_KEY` - Create an API key from "Settings" -> "API Keys" with "Restricted Access" to only "Mail Send"
 
-1. Update the sample [data.json](https://github.com/jigar-sable/next-portfolio/blob/main/data.json) provided, with your data or directly import the same and edit using firebase later. (For storing images you can use [Cloudinary](https://cloudinary.com) or [Firebase Storage](https://firebase.google.com/docs/storage))
+1. Update the sample [data.json](https://github.com/aashutosh-chy/Portfolio-NetxGen2/blob/main/data.json) provided, with your data or directly import the same and edit using firebase later. (For storing images you can use [Cloudinary](https://cloudinary.com) or [Firebase Storage](https://firebase.google.com/docs/storage))
 
 2. Import json data
 
    - Go to [Firebase Console](https://console.firebase.google.com) and select your project
-   - Go to "Database" -> "Realtime Database" -> "Import JSON" and import the [data.json](https://github.com/jigar-sable/next-portfolio/blob/main/data.json) file
+   - Go to "Database" -> "Realtime Database" -> "Import JSON" and import the [data.json](https://github.com/aashutosh-chy/Portfolio-NetxGen2/blob/main/data.json) file
 
 3. Run the project
 
@@ -118,7 +118,7 @@ Here are the steps to run the portfolio locally.
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/jigar-sable/next-portfolio/blob/main/LICENSE.md)
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/aashutosh-chy/Portfolio-NetxGen2/blob/main/LICENSE.md)
 
 <!-- ## Contact 📬
 
