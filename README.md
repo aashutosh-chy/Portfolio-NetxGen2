@@ -8,7 +8,7 @@
   <br/>
 
   <p align="center">
-    <img src="https://img.shields.io/github/forks/jigar-sable/next-portfolio?style=for-the-badge" />
+    <img src="https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749367873/next-gen_ealtah.png" />
   <a href="https://portfolio-netx-gen2.vercel.app">
     <img src="https://img.shields.io/static/v1?label=&message=View%20Demo&style=for-the-badge&color=black&logo=vercel" />
   </a>
