@@ -73,14 +73,15 @@
       "category": "Tools"
     },
     {
-      "name": "JavaScript",
+      "name": "CrowdStrike",
       "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
-      "category": "Frontend"
+      "category": "Certifications",
+      "link": "https://www.crowdstrike.com/cybersecurity-training/crowdstrike-certifications/"
     },
     {
       "name": "Firebase",
       "image": "https://img.icons8.com/color/144/null/firebase.png",
-      "category": "Backend"
+      "category": "Badge"
     }
   ],
   "projects": [
