@@ -1,4 +1,4 @@
-![Portfolio](https://res.cloudinary.com/lifecodes/image/upload/v1678684352/Portfolio/l7b1gz61rh3hgoz5qzta.png)
+![Portfolio](https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749367873/next-gen_ealtah.png)
 
 <div align="center">
   &middot;
