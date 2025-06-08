@@ -75,8 +75,8 @@
     {
       "name": "CrowdStrike",
       "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
-      "category": "Certifications",
-      "link": "https://www.crowdstrike.com/cybersecurity-training/crowdstrike-certifications/"
+      "link": "https://www.crowdstrike.com/cybersecurity-training/crowdstrike-certifications/",
+      "category": "Certifications"
     },
     {
       "name": "Firebase",
