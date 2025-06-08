@@ -41,6 +41,66 @@
       "link": "https://twitter.com/aashutos__"
     }
   ],
+  "experiences": [
+    {
+      "company": "SRM Films",
+      "position": "Video Editor | Internship",
+      "duration": "March 2020 - May 2020",
+      "desc": [
+        "Assisted with editing short clips and videos.",
+        "Tools: Wondershare Filmora · Adobe Premiere Pro"
+      ]
+    },
+    {
+      "company": "Virtually Testing Foundation",
+      "position": "Penetration Tester | Internship",
+      "duration": "October 2021 - December 2021",
+      "desc": [
+        "OWASP Top 10 and its fundamentals.",
+        "Web Application penetration testing - Labs.",
+        "Vulnerability Exploitations.",
+        "Professional pentest report writing.",
+        "Networked with the community through social media."
+      ]
+    },
+    {
+      "company": "iCash Pvt. Ltd",
+      "position": "Product Designer | Internship",
+      "duration": "February 2022 - July 2022",
+      "desc": [
+        "Conducted user research to inform design decisions, gaining insights into user needs, pain points, and behaviors.",
+        "Assisted senior designers in creating design concepts and mockups.",
+        "Provided support to end-users.",
+        "Skills: Canva · Adobe XD"
+      ]
+    },
+    {
+      "company": "Raechal Enterprises Pvt. Ltd",
+      "position": "Security Analyst",
+      "duration": "November 2022 - February 2024",
+      "desc": [
+        "Demonstrated expertise in deploying/supporting leading security solutions: Rapid7's InsightVM, ManageEngine's ADSelfService Plus, PAM360.",
+        "Skillful use of ManageEngine's ADManager Plus, Vulnerability Manager Plus, Patch Manager Plus, Rapid7's InsightAppSec, Crowdstrike's EDR/NGAV for robust security.",
+        "Actively advise financial institutions in on-site meetings, enhancing security solutions.",
+        "Contribute to comprehensive security policies, following industry best practices.",
+        "Thoroughly test and evaluate measures for effective asset/data protection.",
+        "Communicate security findings effectively, fostering team collaboration.",
+        "Stay current on security trends/threats, continuously enhance expertise.",
+        "Tools: Insight VM · PAM360 · ADSelfService Plus · ADManager Plus · Crowdstrike EDR/NGAV"
+      ]
+    },
+    {
+      "company": "Max International",
+      "position": "Network and Security Engineer",
+      "duration": "January 2025 - present",
+      "desc": [
+        "Advanced deployment and management of CrowdStrike Falcon EDR and NGAV to proactively detect, investigate, and remediate threats, ensuring endpoint security across enterprise environments.",
+        "Leveraged CrowdStrike Threat Graph and Spotlight for real-time vulnerability assessment and prioritized remediation.",
+        "Knowledge of Email Security Solution Like Checkpoint Harmony Email and Collaboration EPP and EDR solution like SentinelOne Singularity.",
+        "Tools: CrowdStrike Falcon · Harmony Email Collaboration · SentinelOne Singularity · Checkpoint EPP/EDR."
+      ]
+    }
+  ],
   "skills": [
     {
       "name": "CrowdStrike Falcon",
@@ -143,66 +203,6 @@
         "Relevant Coursework: Data Structures and Algorithms, Database Management Systems, Computer Networks, Operating Systems, Software Engineering, Web Development, Cybersecurity.",
         "Projects: Developed a Java-based application during the final semester of B.Tech to enable data encryption, decryption, and secure information concealment within multimedia files using steganography techniques."
       ] 
-    }
-  ],
-  "experiences": [
-    {
-      "company": "SRM Films",
-      "position": "Video Editor | Internship",
-      "duration": "March 2020 - May 2020",
-      "desc": [
-        "Assisted with editing short clips and videos.",
-        "Tools: Wondershare Filmora · Adobe Premiere Pro"
-      ]
-    },
-    {
-      "company": "Virtually Testing Foundation",
-      "position": "Penetration Tester | Internship",
-      "duration": "October 2021 - December 2021",
-      "desc": [
-        "OWASP Top 10 and its fundamentals.",
-        "Web Application penetration testing - Labs.",
-        "Vulnerability Exploitations.",
-        "Professional pentest report writing.",
-        "Networked with the community through social media."
-      ]
-    },
-    {
-      "company": "iCash Pvt. Ltd",
-      "position": "Product Designer | Internship",
-      "duration": "February 2022 - July 2022",
-      "desc": [
-        "Conducted user research to inform design decisions, gaining insights into user needs, pain points, and behaviors.",
-        "Assisted senior designers in creating design concepts and mockups.",
-        "Provided support to end-users.",
-        "Skills: Canva · Adobe XD"
-      ]
-    },
-    {
-      "company": "Raechal Enterprises Pvt. Ltd",
-      "position": "Security Analyst",
-      "duration": "November 2022 - February 2024",
-      "desc": [
-        "Demonstrated expertise in deploying/supporting leading security solutions: Rapid7's InsightVM, ManageEngine's ADSelfService Plus, PAM360.",
-        "Skillful use of ManageEngine's ADManager Plus, Vulnerability Manager Plus, Patch Manager Plus, Rapid7's InsightAppSec, Crowdstrike's EDR/NGAV for robust security.",
-        "Actively advise financial institutions in on-site meetings, enhancing security solutions.",
-        "Contribute to comprehensive security policies, following industry best practices.",
-        "Thoroughly test and evaluate measures for effective asset/data protection.",
-        "Communicate security findings effectively, fostering team collaboration.",
-        "Stay current on security trends/threats, continuously enhance expertise.",
-        "Tools: Insight VM · PAM360 · ADSelfService Plus · ADManager Plus · Crowdstrike EDR/NGAV"
-      ]
-    },
-    {
-      "company": "Max International",
-      "position": "Network and Security Engineer",
-      "duration": "January 2025 - present",
-      "desc": [
-        "Advanced deployment and management of CrowdStrike Falcon EDR and NGAV to proactively detect, investigate, and remediate threats, ensuring endpoint security across enterprise environments.",
-        "Leveraged CrowdStrike Threat Graph and Spotlight for real-time vulnerability assessment and prioritized remediation.",
-        "Knowledge of Email Security Solution Like Checkpoint Harmony Email and Collaboration EPP and EDR solution like SentinelOne Singularity.",
-        "Tools: CrowdStrike Falcon · Harmony Email Collaboration · SentinelOne Singularity · Checkpoint EPP/EDR."
-      ]
     }
   ]
 }
