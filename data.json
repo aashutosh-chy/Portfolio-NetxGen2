@@ -116,7 +116,7 @@
       "duration": "2018 - 2022",
       "desc": [
         "Relevant Coursework: Data Structures and Algorithms, Database Management Systems, Computer Networks, Operating Systems, Software Engineering, Web Development, Cybersecurity.",
-        "Projects: Developed a web application for online learning management system using MERN stack. Implemented a secure authentication system using JWT and bcrypt."
+        "Projects: Developed a Java-based application during the final semester of B.Tech to enable data encryption, decryption, and secure information concealment within multimedia files using steganography techniques."
       ] 
     }
   ],
