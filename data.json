@@ -43,16 +43,6 @@
   ],
   "skills": [
     {
-      "name": "JavaScript",
-      "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
-      "category": "Frontend"
-    },
-    {
-      "name": "Firebase",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
-      "category": "Backend"
-    },
-    {
       "name": "GitHub",
       "image": "https://img.icons8.com/material-outlined/96/null/github.png",
       "category": "Tools"
@@ -71,6 +61,16 @@
       "name": "PAM360",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372279/pam360_sacusq.png",
       "category": "Tools"
+    },
+    {
+      "name": "JavaScript",
+      "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Firebase",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Backend"
     }
   ],
   "projects": [
