@@ -43,18 +43,13 @@
   ],
   "skills": [
     {
-      "name": "GitHub",
-      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
+      "name": "CrowdStrike Falcon",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372176/crowdstrike_klhsbj.png",
       "category": "Tools"
     },
     {
       "name": "InsightVM",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372096/InsightVM-V2_jjcqxt.jpg",
-      "category": "Tools"
-    },
-    {
-      "name": "CrowdStrike Falcon",
-      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372176/crowdstrike_klhsbj.png",
       "category": "Tools"
     },
     {
@@ -70,6 +65,11 @@
      {
       "name": "Harmony Endpoint",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372685/harmonyendpoint_poaqxc.png",
+      "category": "Tools"
+    },
+    {
+      "name": "GitHub",
+      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
       "category": "Tools"
     },
     {
