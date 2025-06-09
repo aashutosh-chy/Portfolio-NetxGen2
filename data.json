@@ -79,8 +79,13 @@
       "category": "Certifications"
     },
     {
-      "name": "Firebase",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "name": "CyberOps Associate",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749458516/CyberOpsAssoc_n34gab.png",
+      "category": "Badge"
+    },
+    {
+      "name": "OneLogin Technical Specialist",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749458590/OneloginTechnicalSpecialist_dwrbc6.png",
       "category": "Badge"
     }
   ],
