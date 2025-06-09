@@ -45,79 +45,127 @@
     {
       "name": "CrowdStrike Falcon",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372176/crowdstrike_klhsbj.png",
-      "category": "Tools"
+      "category": "Tools",
+      "url": "https://www.crowdstrike.com/platform/"
     },
     {
       "name": "InsightVM",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372096/InsightVM-V2_jjcqxt.jpg",
-      "category": "Tools"
+      "category": "Tools",
+      "url": "https://www.rapid7.com/products/insightvm/"
     },
     {
       "name": "PAM360",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372279/pam360_sacusq.png",
-      "category": "Tools"
+      "category": "Tools",
+      "url": "https://www.manageengine.com/privileged-access-management/"
     },
     {
       "name": "AdSelfService Plus",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372540/adselfservice_wnvv8d.png",
-      "category": "Tools"
+      "category": "Tools",
+      "url": "https://www.manageengine.com/products/self-service-password/"
     },
      {
       "name": "Harmony Endpoint",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372685/harmonyendpoint_poaqxc.png",
-      "category": "Tools"
+      "category": "Tools",
+      "url": "https://www.checkpoint.com/harmony/endpoint/"
     },
     {
       "name": "GitHub",
       "image": "https://img.icons8.com/material-outlined/96/null/github.png",
-      "category": "Tools"
+      "category": "Tools",
+      "url": "Github.com"
     },
     {
       "name": "Computer Engineer",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749459259/NEC_yj9rbh.jpg",
-      "category": "Certifications",
-      "url": "https://example.com/certificate1"
+      "category": "Certifications"
     },
     {
       "name": "Blue Team Junior Analyst",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749459375/securityblueteam_fyxicu.jpg",
       "category": "Certifications",
-      "url": "https://example.com/certificate1"
+      "url": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749462173/Blue_Team_Junior_Analyst_Pathway_Bundle-btja-1_ojwrik.png"
     },
     {
       "name": "Falcon Platform Technical Fundamentals",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372176/crowdstrike_klhsbj.png",
-      "category": "Certifications"
+      "category": "Certifications",
+      "url": "https://www.crowdstrike.com/platform/"
     },
     {
       "name": "SentinelOne Sales Engineer Expert",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749459618/SentinalOne_ipeo9i.png",
-      "category": "Certifications"
+      "category": "Certifications",
+      "url": "https://www.crowdstrike.com/platform/"
     },
     {
       "name": "CyberOps Associate",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749458516/CyberOpsAssoc_n34gab.png",
-      "category": "Badge"
+      "category": "Badge",
+      "url": "https://www.credly.com/badges/d0d546f0-5f43-4dd8-8dae-8a59f479cff2/public_url"
     },
     {
       "name": "CCNA: Introduction to Networks",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749458765/CCNAITN__1__ainl0e.png",
-      "category": "Badge"
+      "category": "Badge",
+      "url": "https://www.credly.com/badges/bff5e6b1-c26e-4451-b980-cb35f03767ca/public_url"
     },
     {
       "name": "CCNA: Switching, Routing, and Wireless Essentials",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749458841/CCNASRWE__1__kjoieh.png",
-      "category": "Badge"
+      "category": "Badge",
+      "url": "https://www.credly.com/badges/a748a6bf-e7c3-44b0-9e60-dc5baa2ae518/public_url"
     },
     {
       "name": "Introduction to Cybersecurity",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749459024/I2CS__1__hxlqbe.png",
-      "category": "Badge"
+      "category": "Badge",
+      "url": "https://www.credly.com/badges/81432355-c7ed-45e2-8298-a0921f175dc5/public_url"
     },
     {
       "name": "OneLogin Technical Specialist",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749458590/OneloginTechnicalSpecialist_dwrbc6.png",
-      "category": "Badge"
+      "category": "Badge",
+      "url": "https://www.credly.com/badges/f24d1004-9ddd-4b96-96ed-d86079f2b94a/public_url"
+    },
+    {
+      "name": "Safeguard Implementation Professional",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749462842/Implementation_ydb3ir.png",
+      "category": "Badge",
+      "url": "https://www.credly.com/badges/4bd2c19e-b134-4172-88f9-f1133a628672/public_url"
+    },
+    {
+      "name": "IBM QRadar SIEM Foundations",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749462687/IBMQRadar_re7qmy.png",
+      "category": "Badge",
+      "url": "https://www.credly.com/badges/e8490729-8d47-4251-b81b-0144004dda9c/public_url"
+    },
+    {
+      "name": "Verify Access Technical Sales Intermediate",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749462925/Verifyaccess_k6wn8v.png",
+      "category": "Badge",
+      "url": "https://www.credly.com/badges/847d8386-438e-4cd7-9b11-4b37f0d84c8c/public_url"
+    },
+    {
+      "name": "Verify Privilege Technical Sales Intermediate",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749463034/Verifyprev_tuzdce.png",
+      "category": "Badge",
+      "url": "https://www.credly.com/badges/a5cd75fb-279f-4296-8dc4-991fbbc47d4f/public_url"
+    },
+    {
+      "name": "Getting Started in Cybersecurity 1.0",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749463145/fortinet_cyber_vd8kpj.png",
+      "category": "Badge",
+      "url": "https://www.credly.com/badges/a80ed390-7e73-4cbc-9416-737420bfee7f/public_url"
+    },
+    {
+      "name": "Introduction to the Threat Landscape 1.0",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749463223/landscape_fortinet_zavlhk.png",
+      "category": "Badge",
+      "url": "https://www.credly.com/badges/cb44ec9d-bbf2-420f-800c-2f62221f0be9/public_url"
     }
   ],
   "projects": [
