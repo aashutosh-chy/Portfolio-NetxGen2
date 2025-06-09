@@ -75,12 +75,14 @@
     {
       "name": "Computer Engineer",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749459259/NEC_yj9rbh.jpg",
-      "category": "Certifications"
+      "category": "Certifications",
+      "url": "https://example.com/certificate1"
     },
     {
       "name": "Blue Team Junior Analyst",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749459375/securityblueteam_fyxicu.jpg",
-      "category": "Certifications"
+      "category": "Certifications",
+      "url": "https://example.com/certificate1"
     },
     {
       "name": "Falcon Platform Technical Fundamentals",
