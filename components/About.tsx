@@ -27,7 +27,7 @@ const About = ({ aboutData, name }: Props) => {
                     <div className="flex flex-col gap-2.5">
                         <p className="text-3xl font-semibold">{name}</p>
                         <p className='text-violet-800 w-fit rounded py-1 px-2 text-sm dark:text-violet-600 bg-violet-50 dark:bg-violet-900/10'>{title}</p>
-                        <p className="text-sm md:text-base my-2 text-gray-600 dark:text-gray-300">{about}</p>
+                        <p className="text-sm md:text-base my-2 text-gray-600 dark:text-gray-300 whitespace-pre-line">{about}</p>
                         <div className="flex items-center gap-4 md:mt-4">
                             {resumeUrl.trim() && <Link href={resumeUrl} target="_blank" className="text-sm md:text-base bg-violet-600 dark:bg-violet-700 text-white w-fit rounded-md py-2 px-6 hover:shadow-xl transition-shadow">Resume</Link>}
                             {callUrl.trim() && <Link href={callUrl} target="_blank" className="text-violet-600 flex items-center gap-1 hover:bg-violet-50 hover:dark:bg-violet-900/10 py-2 px-4 transition-colors rounded-md">Book a 1:1 call <BiLinkExternal /> </Link>}

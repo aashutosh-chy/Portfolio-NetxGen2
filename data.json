@@ -19,7 +19,7 @@
     "aboutImage": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749369325/IMG_1392_vgdba8.jpg",
     "aboutImageCaption": "< Defender 🛡️/>",
     "title": "Computer Engineer | Network and Security Engineer",
-    "about": "I am a dedicated Network and Security Engineer with expertise in cybersecurity and a passion for safeguarding critical assets. With over a year of experience, I specialize in identifying and mitigating security risks, implementing robust measures, and ensuring data confidentiality, integrity, and availability. My skills include Security Assessments, Vulnerability Scanning, Endpoint Security, Email Security, Incident Response, and compliance with industry standards. I stay updated on the latest trends and technologies to protect organizations from evolving threats.As a proactive problem-solver, I excel in fast-paced environments, leveraging my analytical skills to identify and prevent emerging threats. I collaborate effectively with cross-functional teams to enforce security policies, optimize system configurations, and conduct comprehensive training. Proficient in a variety of security tools, I am committed to maintaining a secure and resilient infrastructure.",
+    "about": "I am a dedicated Network and Security Engineer with expertise in cybersecurity and a passion for safeguarding critical assets. With over a year of experience, I specialize in identifying and mitigating security risks, implementing robust measures, and ensuring data confidentiality, integrity, and availability. My skills include Security Assessments, Vulnerability Scanning, Endpoint Security, Email Security, Incident Response, and compliance with industry standards. I stay updated on the latest trends and technologies to protect organizations from evolving threats. \n\nAs a proactive problem-solver, I excel in fast-paced environments, leveraging my analytical skills to identify and prevent emerging threats. I collaborate effectively with cross-functional teams to enforce security policies, optimize system configurations, and conduct comprehensive training. Proficient in a variety of security tools, I am committed to maintaining a secure and resilient infrastructure.",
     "callUrl": "",
     "resumeUrl": "https://drive.google.com/file/d/1rDPVgoQDfaM87KaXF1CuO53tKCpsJpqM/view?usp=sharing"
   },
@@ -93,13 +93,37 @@
       "name": "Falcon Platform Technical Fundamentals",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372176/crowdstrike_klhsbj.png",
       "category": "Certifications",
-      "url": "https://www.crowdstrike.com/platform/"
+      "url": "https://drive.google.com/drive/folders/1sAdcMApy4aGqHloX_Iuuw9OaJq2PanxN?usp=sharing"
     },
     {
       "name": "SentinelOne Sales Engineer Expert",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749459618/SentinalOne_ipeo9i.png",
       "category": "Certifications",
       "url": "https://www.crowdstrike.com/platform/"
+    },
+    {
+      "name": "Certified in Cybersecurity (CC) Self-Placed",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749464489/isc2-logo-png_seeklogo-30_p5nd0x.png",
+      "category": "Certifications",
+      "url": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749464488/Official_CC_Course_Completion_Certificate_Official_ISC_Certified_in_Cybersecurity_CC_Self-Paced_Training_-_1M_Chaudhary_page-0001_vhauuq.jpg"
+    },
+    {
+      "name": "IT Fundamentals for Cybersecurity",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749463906/IBM_ykqpuz.png",
+      "category": "Certifications",
+      "url": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749464044/IT_Fundamentals_for_Cybersecurity-1_dgem65.png"
+    },
+    {
+      "name": "Global Cyberpeace Challenge 3.0",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749464702/Presentation1_aak4t7.jpg",
+      "category": "Certifications",
+      "url": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749464703/Global_Cyberpeace_Participation_page-0001_gz1uk9.jpg"
+    },
+    {
+      "name": "The Fundamentals of Digital Marketing",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749464191/Google__G__logo.svg_rncyg0.png",
+      "category": "Certifications",
+      "url": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749464168/Google_Garage_Digital_Marketing-1_kvnr4i.png"
     },
     {
       "name": "CyberOps Associate",
