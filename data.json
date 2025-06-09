@@ -84,6 +84,16 @@
       "category": "Badge"
     },
     {
+      "name": "CCNA: Introduction to Networks",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749458765/CCNAITN__1__ainl0e.png",
+      "category": "Badge"
+    },
+    {
+      "name": "CCNA: Switching, Routing, and Wireless Essentials",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749458841/CCNASRWE__1__kjoieh.png",
+      "category": "Badge"
+    },
+    {
       "name": "OneLogin Technical Specialist",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749458590/OneloginTechnicalSpecialist_dwrbc6.png",
       "category": "Badge"
