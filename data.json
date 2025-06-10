@@ -194,6 +194,17 @@
   ],
   "projects": [
     {
+      "name": "Digital Tacometer",
+      "description": "The measurement of instantaneous torque in terms of voltage displaying rotating speed in revolution per minute (RPM) of a rotating shaft is known as a digital tachometer. An infrared module is used as the input that senses the interruption in terms of beam of rays caused by rotating shaft, generating a pulse. The usual method of counting pulse coming from the encoder in a fixed period of time produces a high precision velocity estimate in the high-speed range. The encoded signal is latched and further sent to decoder that decodes the latched pulse i.e. speed displayed in 7 segment display. This paper mainly focuses on developing a contact-less digital tachometer of maximum 3digit with the help of integrated circuits (ICs).",
+      "category": "Publications",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749536775/tacometer_lb5lyu.jpg",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": "https://ijisrt.com/digital-tachometer"
+      }
+    },
+    {
       "name": "Portfolio Website",
       "techstack": "HTML5, CSS, JavaScript",
       "category": "Portfolio",
@@ -201,7 +212,7 @@
       "links": {
         "code": "",
         "video": "",
-        "visit": ""
+        "visit": "https://github.com/aashutosh-chy/Personal-Portfolio"
       }
     },
     {
@@ -212,18 +223,18 @@
       "links": {
         "code": "",
         "video": "",
-        "visit": ""
+        "visit": "https://github.com/aashutosh-chy/Portfolio-NetxGen2?tab=readme-ov-file"
       }
     },
     {
       "name": "Cryptography and Steganography",
       "techstack": "Java",
-      "category": "Cryptography",
+      "category": "Security",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749367872/cryptography_r9hivv.jpg",
       "links": {
         "code": "",
         "video": "",
-        "visit": ""
+        "visit": "https://github.com/aashutosh-chy/Cryptography-and-Steganography-Minor-Project-_BTech"
       }
     },
     {
