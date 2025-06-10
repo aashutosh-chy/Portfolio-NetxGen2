@@ -8,13 +8,13 @@ export default function Head() {
       <meta property="og:title" content="Portfolio | Aashutosh Chaudhary - Network and Security Engineer" />
       <meta property="og:description"
         content="I'm Aashutosh Chaudhary, Network and Security Engineer based in Kathmandu, Nepal" />
-      <meta property="og:url" content="https://jigarsable.vercel.app" />
-      <meta property="og:image" content="https://jigarsable.vercel.app/portfolio-fork.png" />
-      <link rel="canonical" href="https://jigarsable.vercel.app" />
+      <meta property="og:url" content="https://aashutoshchaudhary-obe66rer2-aashutosh-chys-projects.vercel.app" />
+      <meta property="og:image" content="https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749367873/next-gen_ealtah.png" />
+      <link rel="canonical" href="https://aashutoshchaudhary-obe66rer2-aashutosh-chys-projects.vercel.app" />
       <meta name="author" content="Aashutosh Chaudhary" />
       <meta name="language" content="English" />
       <meta name="twitter:card" content="summary" />
-      <meta name="twitter:site" content="https://jigarsable.vercel.app" />
+      <meta name="twitter:site" content="https://aashutoshchaudhary-obe66rer2-aashutosh-chys-projects.vercel.app" />
       <meta name="application-name" content="Portfolio | Aashutosh Chaudhary - Network and Security Engineer" />
       <meta name="apple-mobile-web-app-title" content="Portfolio | Aashutosh Chaudhary - Network and Security Engineer" />
       <link rel="icon" href="/favicon.ico" />
