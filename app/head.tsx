@@ -5,7 +5,7 @@ export default function Head() {
       <meta name="description" content="I'm Aashutosh Chaudhary, Network and Security Engineer based in Kathmandu, Nepal" />
       <meta name="keywords" content="aashutosh chaudhary, portfolio, aashutosh, cybersecurity, information security, security engineer, portfolio website, personal portfolio" />
       <meta property="og:site_name" content="Aashutosh Chaudhary's Portfolio" />
-      <meta property="og:title" content="Portfolio | Aashutosh Chaudhary - Network and Security Engineer" />
+      <meta property="og:title" content="Aashutosh Chaudhary" />
       <meta property="og:description"
         content="I'm Aashutosh Chaudhary, Network and Security Engineer based in Kathmandu, Nepal" />
       <meta property="og:url" content="https://aashutoshchaudhary-obe66rer2-aashutosh-chys-projects.vercel.app" />
@@ -15,10 +15,10 @@ export default function Head() {
       <meta name="language" content="English" />
       <meta name="twitter:card" content="summary" />
       <meta name="twitter:site" content="https://aashutoshchaudhary-obe66rer2-aashutosh-chys-projects.vercel.app" />
-      <meta name="application-name" content="Portfolio | Aashutosh Chaudhary - Network and Security Engineer" />
-      <meta name="apple-mobile-web-app-title" content="Portfolio | Aashutosh Chaudhary - Network and Security Engineer" />
+      <meta name="application-name" content="Aashutosh Chaudhary" />
+      <meta name="apple-mobile-web-app-title" content="Aashutosh Chaudhary" />
       <link rel="icon" href="/favicon.ico" />
-      <title>Portfolio | Aashutosh Chaudhary - Network and Security Engineer</title>
+      <title>Aashutosh Chaudhary</title>
     </>
   )
 }
