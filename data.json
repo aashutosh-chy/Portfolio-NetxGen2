@@ -44,7 +44,7 @@
   "skills": [
     {
       "name": "CrowdStrike Falcon",
-      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372176/crowdstrike_klhsbj.png",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749889093/Untitled_design_jchrng.png",
       "category": "Tools",
       "url": "https://www.crowdstrike.com/platform/"
     },
@@ -70,13 +70,13 @@
       "name": "Harmony Endpoint",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372685/harmonyendpoint_poaqxc.png",
       "category": "Tools",
-      "url": "https://www.checkpoint.com/harmony/endpoint/"
+      "url": "https://www.checkpoint.com/harmony/email-security/"
     },
     {
-      "name": "GitHub",
-      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
+      "name": "Harmony Email and Collaboration",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749888740/HarmonyHEC-Logo_uqkgrz.png",
       "category": "Tools",
-      "url": "Github.com"
+      "url": "https://www.checkpoint.com/harmony/email-security/"
     },
     {
       "name": "Computer Engineer",
