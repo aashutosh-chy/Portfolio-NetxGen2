@@ -7,7 +7,7 @@
       "Information Security",
       "Security Engineer"
     ],
-    "heroImage": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749878640/Futuristic_3D_Character_rawkxw.jpg",
+    "heroImage": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749878763/IMG_7041_s9ftmh.jpg",
     "techStackImages": [
       "https://img.icons8.com/?size=100&id=s3t383DCASyx&format=png&color=000000",
       "https://img.icons8.com/?size=100&id=fzGzsfvNPc0q&format=png&color=000000",
@@ -16,7 +16,7 @@
     ]
   },
   "about": {
-    "aboutImage": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749878763/IMG_7041_s9ftmh.jpg",
+    "aboutImage": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749878640/Futuristic_3D_Character_rawkxw.jpg",
     "aboutImageCaption": "< Defender 🛡️/>",
     "title": "Computer Engineer | Network and Security Engineer",
     "about": "I am a dedicated Network and Security Engineer with expertise in cybersecurity and a passion for safeguarding critical assets. With over a year of experience, I specialize in identifying and mitigating security risks, implementing robust measures, and ensuring data confidentiality, integrity, and availability. My skills include Security Assessments, Vulnerability Scanning, Endpoint Security, Email Security, Incident Response, and compliance with industry standards. I stay updated on the latest trends and technologies to protect organizations from evolving threats. \n\n As a proactive problem-solver, I excel in fast-paced environments, leveraging my analytical skills to identify and prevent emerging threats. I collaborate effectively with cross-functional teams to enforce security policies, optimize system configurations, and conduct comprehensive training. Proficient in a variety of security tools, I am committed to maintaining a secure and resilient infrastructure.",
@@ -193,6 +193,28 @@
     }
   ],
   "projects": [
+    {
+      "name": "Nepal's Largest Data Center",
+      "description": "WorldLink Strengthens Nepal’s Digital Future with Its Largest Data Center",
+      "category": "Blogs",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749879624/wl_owg5cc.png",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": "https://www.linkedin.com/pulse/worldlink-strengthens-nepals-digital-future-its-data-center-lwckc/?trackingId=2JE%2FmgRqRHqzXmbG%2BaQ2xw%3D%3D"
+      }
+    },
+    {
+      "name": "Windows 10 End of Support",
+      "description": "The End of Windows 10 Support: What You Need to Know",
+      "category": "Blogs",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749879270/eos_vxe0ig.jpg",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": "https://www.linkedin.com/pulse/end-windows-10-support-what-you-need-know-aashutosh-chaudhary-zlcgc/?trackingId=RtmtH6ucT4S%2F9wD5Cf0V9Q%3D%3D"
+      }
+    },
     {
       "name": "Digital Tacometer",
       "description": "The measurement of instantaneous torque in terms of voltage displaying rotating speed in revolution per minute (RPM) of a rotating shaft is known as a digital tachometer. An infrared module is used as the input that senses the interruption in terms of beam of rays caused by rotating shaft, generating a pulse. The usual method of counting pulse coming from the encoder in a fixed period of time produces a high precision velocity estimate in the high-speed range. The encoded signal is latched and further sent to decoder that decodes the latched pulse i.e. speed displayed in 7 segment display. This paper mainly focuses on developing a contact-less digital tachometer of maximum 3digit with the help of integrated circuits (ICs).",
