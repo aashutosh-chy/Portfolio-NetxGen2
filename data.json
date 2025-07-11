@@ -350,12 +350,23 @@
     {
       "company": "Max International",
       "position": "Network and Security Engineer",
-      "duration": "January 2025 - present",
+      "duration": "January 2025 - June 2025",
       "desc": [
         "Advanced deployment and management of CrowdStrike Falcon EDR and NGAV to proactively detect, investigate, and remediate threats, ensuring endpoint security across enterprise environments.",
         "Leveraged CrowdStrike Threat Graph and Spotlight for real-time vulnerability assessment and prioritized remediation.",
         "Knowledge of Email Security Solution Like Checkpoint Harmony Email and Collaboration EPP and EDR solution like SentinelOne Singularity.",
         "Tools: CrowdStrike Falcon · Harmony Email Collaboration · SentinelOne Singularity · Checkpoint EPP/EDR."
+      ]
+    },
+    {
+      "company": "AI Solution Pvt. Ltd",
+      "position": "Network and Security Engineer",
+      "duration": "June 2025 - Present",
+      "desc": [
+        "Spearhead the deployment and administration of CrowdStrike Falcon EDR and next-generation antivirus solutions to identify, analyze, and neutralize threats, ensuring comprehensive endpoint protection. Also perform continuous vulnerability scanning and risk prioritization using CrowdStrike Threat Graph and Spotlight to support proactive security posture management.",
+        "Utilize Cortex XDR to aggregate and correlate telemetry from endpoints, network traffic, and cloud environments, significantly enhancing threat detection accuracy and incident response times.",
+        "Oversee and maintain email security platforms including Check Point Harmony Email and Collaboration, alongside endpoint detection solutions such as SentinelOne Singularity."
+        "Tools: CrowdStrike Falcon · Harmony Email Collaboration · SentinelOne Singularity · Checkpoint EPP/EDR · Cortex XDR."
       ]
     }
   ]
