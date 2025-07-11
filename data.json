@@ -365,7 +365,7 @@
       "desc": [
         "Spearhead the deployment and administration of CrowdStrike Falcon EDR and next-generation antivirus solutions to identify, analyze, and neutralize threats, ensuring comprehensive endpoint protection. Also perform continuous vulnerability scanning and risk prioritization using CrowdStrike Threat Graph and Spotlight to support proactive security posture management.",
         "Utilize Cortex XDR to aggregate and correlate telemetry from endpoints, network traffic, and cloud environments, significantly enhancing threat detection accuracy and incident response times.",
-        "Oversee and maintain email security platforms including Check Point Harmony Email and Collaboration, alongside endpoint detection solutions such as SentinelOne Singularity."
+        "Oversee and maintain email security platforms including Check Point Harmony Email and Collaboration, alongside endpoint detection solutions such as SentinelOne Singularity.",
         "Tools: CrowdStrike Falcon · Harmony Email Collaboration · SentinelOne Singularity · Checkpoint EPP/EDR · Cortex XDR."
       ]
     }
