@@ -84,16 +84,16 @@
       "category": "Certifications"
     },
     {
+      "name": "CrowdStrike Certified Falcon Administrator",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1753607023/crowdstrike-certified-falcon-administrator_1_ovqu0s.png",
+      "category": "Certifications",
+      "url": "https://drive.google.com/drive/folders/1sAdcMApy4aGqHloX_Iuuw9OaJq2PanxN?usp=sharing"
+    },
+    {
       "name": "Blue Team Junior Analyst",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749459375/securityblueteam_fyxicu.jpg",
       "category": "Certifications",
       "url": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749462173/Blue_Team_Junior_Analyst_Pathway_Bundle-btja-1_ojwrik.png"
-    },
-    {
-      "name": "Falcon Platform Technical Fundamentals",
-      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749372176/crowdstrike_klhsbj.png",
-      "category": "Certifications",
-      "url": "https://drive.google.com/drive/folders/1sAdcMApy4aGqHloX_Iuuw9OaJq2PanxN?usp=sharing"
     },
     {
       "name": "SentinelOne Sales Engineer Expert",
