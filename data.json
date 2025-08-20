@@ -273,17 +273,6 @@
       }
     },
     {
-      "name": "CyTools",
-      "techstack": "Java, HTML, CSS",
-      "category": "Security",
-      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1755685377/image_2025-08-20_160752866_jhnz4x.png",
-      "links": {
-        "code": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1755685377/image_2025-08-20_160752866_jhnz4x.png",
-        "video": "",
-        "visit": "https://cytools-seven.vercel.app/"
-      }
-    },
-    {
       "name": "Cryptography and Steganography",
       "techstack": "Java",
       "category": "Security",
@@ -303,6 +292,17 @@
         "code": "",
         "video": "",
         "visit": ""
+      }
+    },
+    {
+      "name": "CyTools",
+      "techstack": "Java, HTML, CSS",
+      "category": "Security",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1755685377/image_2025-08-20_160752866_jhnz4x.png",
+      "links": {
+        "code": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1755685377/image_2025-08-20_160752866_jhnz4x.png",
+        "video": "",
+        "visit": "https://cytools-seven.vercel.app/"
       }
     }
   ],
