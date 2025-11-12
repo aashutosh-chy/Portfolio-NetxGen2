@@ -143,6 +143,13 @@
       "category": "Badge",
       "url": "https://www.credly.com/badges/2f554d81-c0ac-4f18-9d12-74bc37f83b56"
     },
+  {
+      "name": "AWS Academy Graduate - Cloud Foundations - Training Badge",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1762938101/aws-academy-graduate-cloud-foundations-training-bad_bi7ddr.png",
+      "category": "Badge",
+      "url": "https://www.credly.com/badges/d86e52c5-fd0f-4383-9d6f-cf83ff781bcd"
+    },
+
     {
       "name": "CyberOps Associate",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749458516/CyberOpsAssoc_n34gab.png",
