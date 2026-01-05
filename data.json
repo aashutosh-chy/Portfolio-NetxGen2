@@ -90,6 +90,12 @@
       "url": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1753635755/429_4_421166_1753623024_CrowdStrike_Certified_Falcon_Administrator_page-0001_a0unxo.jpg"
     },
     {
+      "name": "AWS Certified Cloud Practitioner",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1767591020/AWS_Cloud_Practitioner_xv6glr.png",
+      "category": "Certifications",
+      "url": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1767591021/AWS_Certified_Cloud_Practitioner_certificate_pt4gpg.jpg"
+    },
+    {
       "name": "Blue Team Junior Analyst",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1749459375/securityblueteam_fyxicu.jpg",
       "category": "Certifications",
@@ -142,6 +148,12 @@
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1751172820/SentinalOne_PreSales_Professional_vptrlp.png",
       "category": "Badge",
       "url": "https://www.credly.com/badges/2f554d81-c0ac-4f18-9d12-74bc37f83b56"
+    },
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1767591020/AWS_Cloud_Practitioner_xv6glr.png",
+      "category": "Badge",
+      "url": "https://www.credly.com/badges/3aa1aea4-93a9-4d62-b08e-234af3d88d87/linked_in_profile"
     },
   {
       "name": "AWS - Cloud Foundations",
