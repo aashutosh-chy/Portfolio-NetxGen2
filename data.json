@@ -90,6 +90,12 @@
       "url": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1753635755/429_4_421166_1753623024_CrowdStrike_Certified_Falcon_Administrator_page-0001_a0unxo.jpg"
     },
     {
+      "name": "AWS Certified Solution Architect -  Associate",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1771998197/Solution_architect_badge_vqq93r.png",
+      "category": "Certifications",
+      "url": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1771998198/AWS_Certified_Solutions_Architect_-_Associate_certificate_oims6p.jpg"
+    },
+    {
       "name": "AWS Certified Cloud Practitioner",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1767591020/AWS_Cloud_Practitioner_xv6glr.png",
       "category": "Certifications",
@@ -150,10 +156,16 @@
       "url": "https://www.credly.com/badges/2f554d81-c0ac-4f18-9d12-74bc37f83b56"
     },
     {
+      "name": "AWS Certified Solution Architect - Associate",
+      "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1771998197/Solution_architect_badge_vqq93r.png",
+      "category": "Badge",
+      "url": "https://www.credly.com/badges/8bebddeb-71f0-4764-aaf1-acb37756b7f7"
+    },
+    {
       "name": "AWS Certified Cloud Practitioner",
       "image": "https://res.cloudinary.com/dqzeyhnuy/image/upload/v1767591020/AWS_Cloud_Practitioner_xv6glr.png",
       "category": "Badge",
-      "url": "https://www.credly.com/badges/3aa1aea4-93a9-4d62-b08e-234af3d88d87/linked_in_profile"
+      "url": "https://www.credly.com/badges/3aa1aea4-93a9-4d62-b08e-234af3d88d87"
     },
   {
       "name": "AWS - Cloud Foundations",
